@@ -3,19 +3,18 @@ class Solution:
         result = []
         arr = []
         comment = False
-
         for word in source:
             i = 0
             while i < len(word):
-                if not comment and i < len(word) - 1 and word[i : i + 2] == "//":
+                if not comment and word[i : i + 2] == "//":
                     break
 
-                if not comment and i < len(word) - 1 and word[i : i + 2] == "/*":
+                if not comment and word[i : i + 2] == "/*":
                     comment = True
                     i += 2
                     continue
 
-                if comment and i < len(word) - 1 and word[i : i + 2] == "*/":
+                if comment and word[i : i + 2] == "*/":
                     comment = False
                     i += 2
                     continue
