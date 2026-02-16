@@ -54,3 +54,9 @@ Each file is named using the **problem number and title**, for example: `76-Mini
 
 ```bash
 git clone https://github.com/DawitLulie/A2SV_Solved_Questions.git
+
+```
+# 2 Navigate to a platform folder:
+``` bash
+cd A2SV_Solved_Questions/leetcode
+```
