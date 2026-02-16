@@ -78,3 +78,5 @@ Fork the repository
 Add your solution
 
 Create a pull request
+
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=650&height=60&duration=3000&pause=500&color=4CAF50,2196F3,FF9800,9C27B0&lines=GitHub+Status+" /> </h2> <div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DawitLulie&show_icons=true&theme=dark&count_private=true&hide_border=false" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DawitLulie&theme=dark&count_private=true&border_radius=10" /> </div>
