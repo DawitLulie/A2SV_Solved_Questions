@@ -80,4 +80,14 @@ Add your solution
 Create a pull request
 
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=Platforms+&+Competitive+Programming" /> </h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=Platforms+&+Competitive+Programming" />
+</h2>
+
+| Platform        | Profile |
+|-----------------|---------|
+| **LeetCode**    | [Davidawit](https://leetcode.com/u/Davidawit/) |
+| **Codeforces**  | [Dawit_Lulie](https://codeforces.com/profile/Dawit_Lulie) |
+| **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
+| **HackerRank**  | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
+
