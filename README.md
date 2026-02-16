@@ -80,7 +80,7 @@ Add your solution
 Create a pull request
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+&+Competitive+Profiles" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
 </h2>
 
 | Platform        | My Profile |
