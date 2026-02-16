@@ -70,4 +70,3 @@ Add a new solution from any platform
 Improve existing solutions
 
 Add solutions from weekly contests
-
