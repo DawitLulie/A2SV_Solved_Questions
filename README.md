@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=90&pause=300&color=FF0000&width=4000&height=200&lines=Daily+Solved+Problems+Repository;LeetCode%2C+Codeforces%2C+GeeksforGeeks%2C+HackerRank+%26+Weekly+Contests)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie&color=4CAF50)](https://github.com/DawitLulie)
+[![Profile Views](https://komarev.com/ghpvc/?username=DawitLulie0&color=4CAF50)](https://github.com/DawitLulie/A2SV_Solved_Questions)   
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Daily+Algorithm+Practice;Tracking+Weekly+Contests+&size=100&height=150&width=2000)](https://git.io/typing-svg)
 
