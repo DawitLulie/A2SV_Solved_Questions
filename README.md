@@ -32,3 +32,25 @@ A2SV_Solved_Questions/
 ├── geeksforgeeks/ # GFG practice problems
 ├── hackerrank/ # HackerRank challenges
 ```
+
+
+Each file is named using the **problem number and title**, for example: `76-Minimum-Window-Substring.py`.
+
+---
+
+## Features
+
+- **Daily Practice:** Problems are added daily to maintain my coding consistency.  
+- **Multi-Platform Coverage:** Solutions from LeetCode, Codeforces, GFG, and HackerRank.  
+- **Weekly Contest Solutions:** All weekly contests are tracked and stored.  
+- **Python Solutions:** Clean, readable, and ready to run.  
+- **Organized:** Folder structure makes it easy to locate solutions.  
+
+---
+
+## How to Use
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/DawitLulie/A2SV_Solved_Questions.git
