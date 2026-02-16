@@ -10,14 +10,15 @@
 
 ## About This Repository
 
-<p align="center">
+<p align="center" style="font-size:18px; line-height:1.6;">
   This repository contains <b>my daily solved problems</b> from multiple platforms including <b>LeetCode</b>, <b>Codeforces</b>, <b>GeeksforGeeks</b>, and <b>HackerRank</b>. 
   I also add solutions from <b>weekly contests</b> to track my progress and strengthen my problem-solving skills.
 </p>
 
-<p align="center">
+<p align="center" style="font-size:18px; line-height:1.6;">
   My goal is to maintain consistent daily practice and compile high-quality Python solutions for easy reference.
 </p>
+
 
 ---
 
