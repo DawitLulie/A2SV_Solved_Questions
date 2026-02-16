@@ -56,7 +56,18 @@ Each file is named using the **problem number and title**, for example: `76-Mini
 git clone https://github.com/DawitLulie/A2SV_Solved_Questions.git
 
 ```
-# 2 Navigate to a platform folder:
+## 2 Navigate to a platform folder:
 ``` bash
 cd A2SV_Solved_Questions/leetcode
 ```
+## 3 Open any Python solution and run it:
+python 76-Minimum-Window-Substring.py
+# Contribution
+I welcome contributions! You can:
+
+Add a new solution from any platform
+
+Improve existing solutions
+
+Add solutions from weekly contests
+
