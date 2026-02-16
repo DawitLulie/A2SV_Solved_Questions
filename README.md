@@ -70,3 +70,11 @@ Add a new solution from any platform
 Improve existing solutions
 
 Add solutions from weekly contests
+
+# Steps:
+
+Fork the repository
+
+Add your solution
+
+Create a pull request
