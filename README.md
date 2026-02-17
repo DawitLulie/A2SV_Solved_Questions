@@ -27,6 +27,7 @@
 I organized all solved problems into subfolders by platform:
 
 ``` bash
+
 A2SV_Solved_Questions/
 ├── leetcode/ # Daily LeetCode solutions
 ├── codeforces/ # Competitive programming solutions
@@ -61,8 +62,13 @@ git clone https://github.com/DawitLulie/A2SV_Solved_Questions.git
 ``` bash
 cd A2SV_Solved_Questions/leetcode
 ```
+
 ## 3 Open any Python solution and run it:
+``` bash
 python 76-Minimum-Window-Substring.py
+```
+
+
 # Contribution
 I welcome contributions! You can:
 
@@ -72,6 +78,7 @@ Improve existing solutions
 
 Add solutions from weekly contests
 
+
 # Steps:
 
 Fork the repository
@@ -79,6 +86,7 @@ Fork the repository
 Add your solution
 
 Create a pull request
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=My+Coding+Platforms+%26+Competitive+Profiles" />
