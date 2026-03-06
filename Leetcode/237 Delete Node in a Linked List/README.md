@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/delete-node-in-a-linked-list">237. Delete Node in a Linked List</a></h2>
-<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
+<img src='https://img.shields.io/badge/Difficulty-Medium-yellow' alt='Difficulty: Medium' />
 <hr>
 
 <p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>
@@ -60,4 +60,4 @@ This effectively deletes the target node in O(1) time.
 
 ### Tags
 
-linked list, in-place
+linked list, in-place, two pointers
