@@ -16,7 +16,7 @@
 
 <p>It is illegal to select a prefix where the number of <code>0</code>s and <code>1</code>s are not equal.</p>
 
-<p>Given another binary string <code>b</code> of the same length, determine whether it is possible to transform <code>a</code> into <code>b</code> using some number of operations. :contentReference[oaicite:0]{index=0}</p>
+<p>Given another binary string <code>b</code> of the same length, determine whether it is possible to transform <code>a</code> into <code>b</code> using some number of operations.</p>
 
 ---
 
