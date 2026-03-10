@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream">2526. Find Consecutive Integers from a Data Stream</a></h2>
-<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
+<img src='https://img.shields.io/badge/Difficulty-Medium-yellow' alt='Difficulty: Medium' />
 <hr>
 
 <p>For a stream of integers, implement a data structure that checks if the last <code>k</code> integers are equal to a given value.</p>
@@ -47,18 +47,18 @@ ds.consec(3); // return false
 
 **Approach (Counting Consecutive Values):**
 
-Instead of storing the entire stream, we only track how many **consecutive values equal to `value`** appear at the end.
+Instead of storing the entire stream, we track the number of **consecutive values equal to `value`** at the end of the stream.
 
 Steps:
 
-1. Store `value` and `k`.
+1. Store the target `value` and required length `k`.
 2. Maintain a counter `count`.
-3. For each incoming number:
-   - If `num == value`, increase `count`.
-   - Otherwise, reset `count` to `0`.
+3. For each new number:
+   - If `num == value`, increment `count`.
+   - Otherwise reset `count` to `0`.
 4. Return `True` if `count >= k`, otherwise `False`.
 
-This efficiently checks whether the last `k` values match the required number.
+This works because we only care about the **last consecutive occurrences** of the target value.
 
 ---
 
