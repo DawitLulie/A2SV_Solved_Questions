@@ -8,8 +8,8 @@
 
 <ul>
 <li><code>MyCircularDeque(int k)</code> Initializes the deque with maximum size <code>k</code>.</li>
-<li><code>boolean insertFront()</code> Adds an item at the front of the deque. Returns <code>true</code> if the operation is successful.</li>
-<li><code>boolean insertLast()</code> Adds an item at the rear of the deque. Returns <code>true</code> if the operation is successful.</li>
+<li><code>boolean insertFront(int value)</code> Adds an item at the front of the deque. Returns <code>true</code> if the operation is successful.</li>
+<li><code>boolean insertLast(int value)</code> Adds an item at the rear of the deque. Returns <code>true</code> if the operation is successful.</li>
 <li><code>boolean deleteFront()</code> Deletes an item from the front of the deque. Returns <code>true</code> if the operation is successful.</li>
 <li><code>boolean deleteLast()</code> Deletes an item from the rear of the deque. Returns <code>true</code> if the operation is successful.</li>
 <li><code>int getFront()</code> Gets the front item from the deque. If the deque is empty, return <code>-1</code>.</li>
@@ -47,23 +47,52 @@ Output
 
 ### Solution
 
-**Approach (Circular Array):**
+**Approach (Doubly Linked List):**
 
-We implement the deque using a fixed-size array and two pointers:
+In this implementation, the deque is built using a **doubly linked list**.
 
-- `front` → points to the front element  
-- `rear` → points to the rear element  
+Each node stores:
+- `val`
+- `prev` pointer
+- `next` pointer
 
-Key ideas:
+We maintain two pointers:
 
-1. Use **modulo arithmetic** to wrap around the array.
-2. Track the number of elements using `size`.
-3. For insertion:
-   - Update the pointer first, then insert the value.
-4. For deletion:
-   - Move the pointer appropriately.
+- `head` → front of the deque  
+- `tail` → rear of the deque  
 
-This allows constant-time operations for all deque methods.
+And two counters:
+
+- `k` → maximum capacity  
+- `capacity` → current number of elements
+
+Operations:
+
+1. **insertFront**
+   - Create a new node.
+   - Attach it before the current `head`.
+   - Update `head`.
+
+2. **insertLast**
+   - Create a new node.
+   - Attach it after the current `tail`.
+   - Update `tail`.
+
+3. **deleteFront**
+   - Move `head` to `head.next`.
+   - Update `prev` pointer.
+
+4. **deleteLast**
+   - Move `tail` to `tail.prev`.
+   - Update `next` pointer.
+
+5. **getFront / getRear**
+   - Return values from `head` or `tail`.
+
+6. **isEmpty / isFull**
+   - Check using the `capacity` variable.
+
+This structure allows efficient **O(1)** operations for insertion and deletion at both ends.
 
 ---
 
@@ -76,4 +105,4 @@ This allows constant-time operations for all deque methods.
 
 ### Tags
 
-design, queue, deque, circular queue, data structure
+design, linked list, deque, data structure
