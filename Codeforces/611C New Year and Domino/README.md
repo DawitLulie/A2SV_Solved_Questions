@@ -49,7 +49,7 @@ Output:
 
 ### Approach (2D Prefix Sum)
 
-Brute force per query is too slow because <code>q</code> is large. :contentReference[oaicite:0]{index=0}  
+Brute force per query is too slow because <code>q</code> is large.   
 
 We preprocess the grid.
 
