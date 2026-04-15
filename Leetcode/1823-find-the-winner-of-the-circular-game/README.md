@@ -1,87 +1,69 @@
-# 1823. Find the Winner of the Circular Game
+<h2><a href="https://leetcode.com/problems/find-the-winner-of-the-circular-game/">1823. Find the Winner of the Circular Game</a></h2>
+<img src="https://img.shields.io/badge/Difficulty-Medium-yellow" alt="Difficulty: Medium" />
+<hr>
 
-## Problem
-There are `n` friends standing in a circle, numbered from `1` to `n`.
+<p>
+There are <code>n</code> friends standing in a circle, labeled from <code>1</code> to <code>n</code>.
+</p>
 
-Starting from friend `1`, we count `k` people in order. The `k-th` person is removed from the circle.
+<p>
+Starting from the first friend, we eliminate every <code>k-th</code> friend in the circle until only one remains.
+</p>
 
-After each removal, counting continues from the next person in the circle.
-
-The process repeats until only one person remains.
-
-Return the winner.
+<p>
+Return the label of the winner.
+</p>
 
 ---
 
-## Example
-Input:
-n = 5, k = 2
+### Example 1
 
-Output:
-3
+<pre>
+Input: n = 5, k = 2
+Output: 3
 
 Explanation:
-Start: 1 2 3 4 5  
-Remove 2 → 1 3 4 5  
-Remove 4 → 1 3 5  
-Remove 1 → 3 5  
-Remove 5 → 3  
-Winner = 3
+Step-by-step elimination:
+1 2 3 4 5 → remove 2
+1 3 4 5 → remove 4
+1 3 5 → remove 1
+3 5 → remove 5
+3 → winner
+</pre>
 
 ---
 
-## Approach 1: Simulation using Queue
+### Example 2
 
-We use a queue to simulate the circular process.
-
-### Steps:
-1. Put all numbers from 1 to n into a queue.
-2. Repeat until one element remains:
-   - Move first `k-1` elements to the back.
-   - Remove the front element (this is the k-th person).
-3. Return the last remaining element.
+<pre>
+Input: n = 6, k = 5
+Output: 1
+</pre>
 
 ---
 
-## Complexity
-Time: O(n × k)  
-Space: O(n)
+### Constraints
+
+<ul>
+<li>1 ≤ n ≤ 500</li>
+<li>1 ≤ k ≤ 500</li>
+</ul>
 
 ---
 
-## Approach 2: Josephus Problem (Optimal)
+### Solution
 
-This is a classic Josephus problem.
+**Approach 1: Simulation using Queue**
 
-We use the formula:
-f(n, k) = (f(n-1, k) + k) % n
+We simulate the circular process using a queue.
 
-Base case:
-f(1, k) = 0
+#### Idea:
+- Put all numbers from 1 to n into a queue.
+- For each round:
+  - Move the first <code>k-1</code> elements to the back.
+  - Remove the front element (this is the k-th person).
+- Continue until one person remains.
 
-Final answer:
-f(n, k) + 1
-
----
-
-## Optimized Solution
-Time: O(n)  
-Space: O(1)
+This directly mimics the circular elimination process.
 
 ---
-
-## Code (O(n))
-class Solution:
-    def findTheWinner(self, n: int, k: int) -> int:
-        winner = 0
-
-        for i in range(2, n + 1):
-            winner = (winner + k) % i
-
-        return winner + 1
-
----
-
-## Summary
-- Simulation is easy to understand.
-- Josephus solution is optimal and interview-ready.
