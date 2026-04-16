@@ -17,13 +17,13 @@
 </p>
 
 <p align="center" style="font-size:18px; line-height:1.6;">
-  My goal is to maintain consistent daily practice and compile high-quality Python solutions for easy reference.
+  💥My goal is to maintain consistent daily practice and compile high-quality Python solutions for easy reference.
 </p>
 
 
 ---
 
-## Repository Structure
+## Repository Structure 
 
 I organized all solved problems into subfolders by platform:
 
