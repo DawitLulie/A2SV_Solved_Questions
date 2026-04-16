@@ -1,5 +1,5 @@
 <h2><a href="https://codeforces.com/problemset/problem/1741/D">1741D. Masha and a Beautiful Tree</a></h2>
-<img src='https://img.shields.io/badge/Difficulty-Medium-yellow' alt='Difficulty: Medium' />
+<img src='https://img.shields.io/badge/Difficulty-Medium-yellow' alt='Difficulty: 1300' />
 <hr>
 
 <p>
