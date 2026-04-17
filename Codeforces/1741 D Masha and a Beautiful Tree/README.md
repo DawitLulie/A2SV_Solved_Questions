@@ -41,7 +41,7 @@ Return the <b>minimum number of swaps</b> required, or <code>-1</code> if imposs
 
 <hr>
 
-<h3> Approach (Merge Sort Style):</h3>
+<h3> 💥 Approach (Merge Sort Style):</h3>
 
 <p>
 We solve this problem using a <b>modified merge sort</b>.
@@ -59,7 +59,7 @@ Instead of sorting normally, we:
 
 <hr>
 
-<h3>🔧 Merge Logic:</h3>
+<h3> Merge Logic:</h3>
 
 <p>
 At each merge step:
