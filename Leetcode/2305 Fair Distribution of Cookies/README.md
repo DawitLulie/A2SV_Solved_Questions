@@ -4,10 +4,6 @@
 </a>
 </h2>
 
-<p>
-Solved on <b>:contentReference[oaicite:0]{index=0}</b>
-</p>
-
 <img src="https://img.shields.io/badge/Difficulty-Medium-yellow" alt="Difficulty: Medium"/>
 
 <hr>
