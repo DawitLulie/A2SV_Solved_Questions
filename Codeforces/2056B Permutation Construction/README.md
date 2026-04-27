@@ -13,6 +13,7 @@ Your task is to construct a permutation of numbers from <code>1</code> to <code>
 
 <hr>
 
+
 <h3>Approach (Greedy + Insertion):</h3>
 
 <p>
