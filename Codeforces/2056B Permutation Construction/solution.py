@@ -13,6 +13,6 @@ for _ in range(t):
                 index -= 1
 
         p.insert(index, i + 1)
-
+        
     print(*p)
 
