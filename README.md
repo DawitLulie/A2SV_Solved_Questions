@@ -79,7 +79,6 @@ Improve existing solutions
 
 Add solutions from weekly contests
 
-
 # Steps:
 
 Fork the repository
