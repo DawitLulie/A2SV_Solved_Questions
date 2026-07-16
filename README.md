@@ -19,8 +19,6 @@
   💥My goal is to maintain consistent daily practice and compile high-quality Python solutions for easy reference.
 </p>
 
-
-
 ---
 
 ## Repository Structure 
