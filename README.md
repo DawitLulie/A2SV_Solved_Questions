@@ -19,8 +19,6 @@
   💥My goal is to maintain consistent daily practice and compile high-quality Python solutions for easy reference.
 </p>
 
-
-
 ---
 
 ## Repository Structure 
@@ -69,7 +67,6 @@ cd A2SV_Solved_Questions/leetcode
 python 76-Minimum-Window-Substring.py
 ```
 
-
 # Contribution
 I welcome contributions! You can:
 
@@ -78,7 +75,6 @@ Add a new solution from any platform
 Improve existing solutions
 
 Add solutions from weekly contests
-
 
 # Steps:
 
