@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Daily+Algorithm+Practice;Tracking+Weekly+Contests+&size=100&height=150&width=2000)](https://git.io/typing-svg)
 
 ---
-
 ## About This Repository
 
 <p align="center" style="font-size:18px; line-height:1.6;">
