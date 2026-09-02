@@ -95,8 +95,6 @@ Create a pull request
 | **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
 | **HackerRank**  | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
 
-
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
