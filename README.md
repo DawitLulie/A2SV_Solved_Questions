@@ -102,6 +102,7 @@ Create a pull request
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +111,5 @@ Create a pull request
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
