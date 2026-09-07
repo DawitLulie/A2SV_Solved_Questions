@@ -116,8 +116,10 @@ Create a pull request
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
