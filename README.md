@@ -106,6 +106,7 @@ Create a pull request
 ## Math
 |  |
 | ------- |
+| [3871-count-commas-in-range-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
