@@ -33,7 +33,6 @@ A2SV_Solved_Questions/
 ├── hackerrank/ # HackerRank challenges
 ```
 
-
 Each file is named using the **problem number and title**, for example: `76-Minimum-Window-Substring.py`.
 
 ---
