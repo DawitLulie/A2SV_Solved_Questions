@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Daily+Algorithm+Practice;Tracking+Weekly+Contests+&size=100&height=150&width=2000)](https://git.io/typing-svg)
 
 ---
-
 ## About This Repository
 
 <p align="center" style="font-size:18px; line-height:1.6;">
@@ -33,7 +32,6 @@ A2SV_Solved_Questions/
 ├── geeksforgeeks/ # GFG practice problems
 ├── hackerrank/ # HackerRank challenges
 ```
-
 
 Each file is named using the **problem number and title**, for example: `76-Minimum-Window-Substring.py`.
 
@@ -96,4 +94,32 @@ Create a pull request
 | **GeeksforGeeks** | [DawitLRKZS](https://www.geeksforgeeks.org/profile/dawitlrkzs) |
 | **HackerRank**  | [DawitLulie2](https://www.hackerrank.com/profile/Dawitlulie2) |
 
-
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3875-construct-uniform-parity-array-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/DawitLulie/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
+<!---LeetCode Topics End-->
