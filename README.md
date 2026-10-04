@@ -19,7 +19,6 @@
 </p>
 
 ---
-
 ## Repository Structure 
 
 I organized all solved problems into subfolders by platform:
